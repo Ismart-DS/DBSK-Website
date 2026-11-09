@@ -1,32 +1,4 @@
 
-:root {
-    --green: #08784f;
-    --dark-green: #064b35;
-    --light-green: #eaf7f0;
-    --navy: #142c3c;
-    --text: #64716b;
-    --white: #ffffff;
-    --bg: #f7faf8;
-    --shadow: 0 12px 40px rgba(0, 50, 30, .08);
-}
-
-* {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-}
-
-html {
-    scroll-behavior: smooth;
-    scroll-padding-top: 90px;
-}
-
-body {
-    font-family: 'Outfit', sans-serif;
-    color: var(--navy);
-    background: white;
-    overflow-x: hidden;
-}
 
 a {
     text-decoration: none;
